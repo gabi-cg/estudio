@@ -1,0 +1,30 @@
+/* CSS Document */
+@charset "utf-8";
+
+/*Cuerpo general para todas las páginas*/
+body {
+	color: white;
+	background-image: url("../img/FlyArt.png");
+	background-size:100%;
+	background-position: 5px 30px;
+	background-repeat: no-repeat;
+	background-color: #9A011F;
+}
+
+.navbar-default {
+	opacity: 0.6;
+}
+
+footer{
+	padding: 1px 0 1px 0;
+	color: #aaa;
+	text-align: center;
+}
+
+#tablaInsc {
+	color: black;
+}
+
+.insideH1 {
+	font-size: 14px;
+}
